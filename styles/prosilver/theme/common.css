@@ -174,11 +174,11 @@ a#logo:hover {
 #site-description {
 	float: left;
 	width: 70%;
-	margin-left: 15px;
 }
 
 #site-description h1 {
 	margin-right: 0;
+	margin-left: 15px;
 }
 
 #site-description a:hover {
