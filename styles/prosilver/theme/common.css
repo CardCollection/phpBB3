@@ -174,10 +174,15 @@ a#logo:hover {
 #site-description {
 	float: left;
 	width: 70%;
+	margin-left: 15px;
 }
 
 #site-description h1 {
 	margin-right: 0;
+}
+
+#site-description a:hover {
+	style: none;
 }
 
 /* Round cornered boxes and backgrounds
